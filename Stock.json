@@ -1,0 +1,54 @@
+{
+  "Stock1TCS": [
+    {
+      "sharename": "share1",
+      "Numberofshare": 20,
+      "Priceofshare": 100
+    },
+    {
+      "sharename": "share2",
+      "Numberofshare": 50,
+      "Priceofshare": 1000
+    },
+    {
+      "sharename": "share3",
+      "Numberofshare": 30,
+      "Priceofshare": 5000
+    }
+  ],
+  "Stock2HDFC": [
+    {
+      "sharename": "share1",
+      "Numberofshare": 20,
+      "Priceofshare": 1600
+    },
+    {
+      "sharename": "share2",
+      "Numberofshare": 60,
+      "Priceofshare": 1000
+    },
+    {
+      "sharename": "share3",
+      "Numberofshare": 20,
+      "Priceofshare": 5000
+    }
+  ],
+  "Stock3Infosys": [
+    {
+      "sharename": "share1",
+      "Numberofshare": 90,
+      "Priceofshare": 10000
+    },
+    {
+      "sharename": "share2",
+      "Numberofshare": 5,
+      "Priceofshare": 100
+    },
+    {
+      "sharename": "share3",
+      "Numberofshare": 5,
+      "Priceofshare": 500
+    }
+  ]
+
+}
